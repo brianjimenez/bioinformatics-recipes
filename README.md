@@ -16,8 +16,12 @@ This is the content at the moment:
 #### Python 2.7
 
 * [Basics](2.7/basics/)
+    1. [Hello World!](2.7/basics/1_Hello_World.md)
 
+* [Input/Ouput](2.7/io/)
+    1. [Reading a file](2.7/basics/1_Reading_a_file.md)
 
 #### Python 3.6
 
 * [Basics](3.6/basics/)
+    1. [Hello World!](3.6/basics/1_Hello_World.md)
