@@ -19,7 +19,7 @@ This is the content at the moment:
     1. [Hello World!](2.7/basics/1_Hello_World.md)
 
 * [Input/Ouput](2.7/io/)
-    1. [Reading a file](2.7/basics/1_Reading_a_file.md)
+    1. [Reading a file](2.7/io/1_Reading_a_file.md)
 
 #### Python 3.6
 
