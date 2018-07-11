@@ -21,6 +21,9 @@ This is the content at the moment:
 * [Input/Ouput](2.7/io/)
     1. [Reading a file](2.7/io/1_Reading_a_file.md)
 
+* [Molecular](2.7/molecular/)
+    1. [Reading and parsing a PDB structure](2.7/molecular/1_Parse_PDB.md)
+
 #### Python 3.6
 
 * [Basics](3.6/basics/)
